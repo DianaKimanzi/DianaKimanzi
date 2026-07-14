@@ -1,9 +1,8 @@
-# Hi there, I'm Diana Kimanzi 👋
+# Diana Kimanzi
 
 ## Healthcare Data Analyst | M.S. in Business Analytics
 
-I am passionate about using data analytics, machine learning, and visualization to solve real-world healthcare and business problems.
-
+Turning healthcare and business data into actionable insights through analytics, machine learning, and interactive dashboards.
 ---
 
 ## 👩‍💻 About Me
