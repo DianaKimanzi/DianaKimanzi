@@ -31,28 +31,61 @@ Transforming healthcare and business data into actionable insights through analy
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🏥[Maternal Health Risk Analysis](https://github.com/DianaKimanzi/Maternal-Health-Risk-Analysis)
+### 🏥 [Maternal Health Risk Analysis](https://github.com/DianaKimanzi/Maternal-Health-Risk-Analysis)
+
 Machine learning project for the early identification of high-risk pregnancies using maternal healthcare data.
 
-**Highlights:**
+*Technologies:* Python, Scikit-learn, SHAP, Jupyter Notebook
+
+*Highlights:*
 - Built a Random Forest classification model
 - Achieved strong predictive performance
 - Used SHAP for model interpretability
-- Created a structured GitHub project with documentation
+- Developed a structured GitHub project with comprehensive documentation
 
 ---
 
-## 🚀Additional Projects
+### 📊 [Healthcare Claims Analytics Dashboard](https://github.com/DianaKimanzi/Healthcare-Claims-Analytics-Dashboard)
 
-### 📊 Healthcare Claims Analytics Dashboard
-Power BI dashboard analyzing healthcare costs and utilization.
+Interactive Power BI dashboard analyzing healthcare claims, utilization trends, costs, and key performance indicators.
+
+*Technologies:* Power BI, SQL, DAX, Excel
+
+*Highlights:*
+- Analyzed healthcare claims and utilization patterns
+- Built interactive KPI dashboards
+- Visualized cost trends and performance metrics
+- Designed executive-level reports for decision-making
 
 ---
 
-### 🏥 Hospital Emergency Room Dashboard
-Interactive Excel dashboard with KPIs, Pivot Tables, Charts, and Slicers.
+### 🏥 [Hospital Emergency Room Dashboard](https://github.com/DianaKimanzi/Hospital-ER-Excel-Dashboard)
+
+Interactive Excel dashboard providing insights into emergency room performance and operational metrics.
+
+*Technologies:* Microsoft Excel, Pivot Tables, Charts, Slicers
+
+*Highlights:*
+- Developed interactive dashboards using Pivot Tables
+- Monitored ER performance indicators
+- Created dynamic visual reports
+- Improved operational reporting with slicers
+
+---
+
+### 💰 [Budget Performance Dashboard](https://github.com/DianaKimanzi/Budget-Performance-Dashboard)
+
+Power BI dashboard comparing actual performance against budget to support financial planning and business decisions.
+
+*Technologies:* Power BI, DAX, Excel
+
+*Highlights:*
+- Compared actual vs. budget performance
+- Tracked financial KPIs
+- Visualized trends and variances
+- Built an executive financial dashboard
   
 ---
 
