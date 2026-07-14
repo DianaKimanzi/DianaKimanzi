@@ -2,7 +2,7 @@
 
 ## Healthcare Data Analyst | M.S. in Business Analytics
 
-Turning healthcare and business data into actionable insights through analytics, machine learning, and interactive dashboards.
+Transforming healthcare and business data into actionable insights through analytics, machine learning, and interactive dashboards.
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ Turning healthcare and business data into actionable insights through analytics,
 
 ## 🚀 Featured Project
 
-### 🏥 Maternal Health Risk Analysis
+### 🏥[Maternal Health Risk Analysis](https://github.com/DianaKimanzi/Maternal-Health-Risk-Analysis)
 Machine learning project for the early identification of high-risk pregnancies using maternal healthcare data.
 
 **Highlights:**
@@ -44,7 +44,7 @@ Machine learning project for the early identification of high-risk pregnancies u
 
 ---
 
-## 🚀Projects Coming Soon
+## 🚀Additional Projects
 
 ### 📊 Healthcare Claims Analytics Dashboard
 Power BI dashboard analyzing healthcare costs and utilization.
@@ -66,6 +66,14 @@ Interactive Excel dashboard with KPIs, Pivot Tables, Charts, and Slicers.
 
 ---
 
+## 📜 Certifications & Learning
+
+- Microsoft Power BI (In Progress)
+- Advanced SQL
+- Python for Data Analytics
+- Machine Learning
+
+---
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *((https://www.linkedin.com/in/diana-kimanzi/))*
