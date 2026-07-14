@@ -36,7 +36,15 @@ Turning healthcare and business data into actionable insights through analytics,
 ### 🏥 Maternal Health Risk Analysis
 Machine learning project for the early identification of high-risk pregnancies using maternal healthcare data.
 
-## 🚀Project Coming Soon
+**Highlights:**
+- Built a Random Forest classification model
+- Achieved strong predictive performance
+- Used SHAP for model interpretability
+- Created a structured GitHub project with documentation
+
+---
+
+## 🚀Projects Coming Soon
 
 ### 📊 Healthcare Claims Analytics Dashboard
 Power BI dashboard analyzing healthcare costs and utilization.
@@ -46,12 +54,6 @@ Power BI dashboard analyzing healthcare costs and utilization.
 ### 🏥 Hospital Emergency Room Dashboard
 Interactive Excel dashboard with KPIs, Pivot Tables, Charts, and Slicers.
   
-**Highlights:**
-- Built a Random Forest classification model
-- Achieved strong predictive performance
-- Used SHAP for model interpretability
-- Created a structured GitHub project with documentation
-
 ---
 
 ## 🎯 Career Interests
