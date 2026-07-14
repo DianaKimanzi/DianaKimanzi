@@ -10,6 +10,7 @@ Turning healthcare and business data into actionable insights through analytics,
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 👩‍💻 About Me
 
@@ -37,8 +38,13 @@ Machine learning project for the early identification of high-risk pregnancies u
 
 ## 🚀Project Coming Soon
 
-- 📊 Healthcare Claims Analytics Dashboard
-- 📈 Hospital Emergency Room Dashboard
+### 📊 Healthcare Claims Analytics Dashboard
+Power BI dashboard analyzing healthcare costs and utilization.
+
+---
+
+### 🏥 Hospital Emergency Room Dashboard
+Interactive Excel dashboard with KPIs, Pivot Tables, Charts, and Slicers.
   
 **Highlights:**
 - Built a Random Forest classification model
